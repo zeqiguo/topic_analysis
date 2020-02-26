@@ -1,0 +1,11 @@
+Audi,BMW,Chrysler,Ford,GMC,Honda,Mercedes-Benz,Nissan,Toyota
+clutch,gear,tran,tran,gear,tranni,gear,tranni,tran
+turbo,mode,clutch,tranni,tran,tran,electron,tran,tranni
+mechatron,clutch,gear,transaxl,tranni,clutch,shift,radiat,clutch
+dsg,engin,tranni,clutch,engin,ntransmiss,conductor,cvt,gear
+tcm,revers,shifter,ntransmiss,convert,starter,flush,clutch,transaxl
+mechtron,shift,engin,transmisson,shift,convert,comput,coolant,ecm
+modul,gearbox,shift,ptu,pinion,compressor,balanc,thermostat,compressor
+engin,smg,radiat,differenti,clutch,differenti,shifter,motor,convert
+cvt,sequenti,thermostat,solenoid,cylind,radiat,shaft,differenti,solenoid
+unit,automat,transaxl,egl,lifter,gear,fluid,turbo,tranmiss
