@@ -1,0 +1,11 @@
+Audi,BMW,Chrysler,Ford,GMC,Honda,Mercedes-Benz,Nissan,Toyota
+blank,vent,heater,heater,heater,heater,fan,heater,fan
+heater,cabin,fan,defrost,core,fan,defrost,fan,heater
+black,black,defrost,fan,player,compressor,radio,compressor,blower
+pop,radio,radio,blower,cd,evapor,washer,radio,defrost
+hot,exhaust,cd,heat,blower,core,ep,blower,heat
+lamp,blade,dvd,radio,dvd,freon,fuse,heat,evapor
+interior,fan,core,hvac,defrost,stereo,cd,vent,radio
+heat,box,player,compressor,compressor,cool,knob,defrost,stereo
+vent,resistor,heat,stereo,fan,condens,voltag,core,compressor
+backup,glove,ventil,climat,heat,heat,changer,condens,condens

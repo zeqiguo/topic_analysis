@@ -1,0 +1,11 @@
+Audi,BMW,Chrysler,Ford,GMC,Honda,Mercedes-Benz,Nissan,Toyota
+deploy,seatbelt,bag,bag,bag,bag,deploy,bag,bag
+inflat,bag,headrest,sr,inflat,sr,seatbelt,sr,seatbelt
+passeng,restraint,seatbelt,seatbelt,deploy,seatbelt,inflat,seatbelt,curtain
+frontal,frontal,tpm,ab,impact,inflat,sr,oc,air
+bag,passeng,dashboard,pretension,dash,frontal,bag,occup,headlight
+occup,occup,fog,iraq,seatbelt,curtain,air,ab,inflat
+seatbelt,sr,ab,frontal,dashboard,air,frontal,tpm,frontal
+air,inflat,tail,restraint,air,tpm,cllaim,radar,impact
+pretension,restrain,horn,impact,passeng,impact,passeng,blink,dashboard
+driver,constantli,ahr,dashboard,neither,ab,satellit,air,tpm

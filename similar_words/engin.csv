@@ -1,0 +1,11 @@
+Audi,BMW,Chrysler,Ford,GMC,Honda,Mercedes-Benz,Nissan,Toyota
+misfir,fan,motor,eng,batteri,motor,complet,motor,motor
+transmiss,transmiss,transmiss,wrench,transmiss,blink,rough,fan,transmiss
+turbo,batteri,car,motor,rough,idl,misfir,eng,dipstick
+check,idl,complet,turbo,eventu,exhaust,run,fuse,batteri
+oil,rough,vehicl,transmiss,idl,tc,vehicl,dashboard,fuse
+starter,sputter,batteri,dashboard,error,manifold,oil,batteri,eventu
+complet,reduc,van,overdr,flash,clutch,continu,car,dashboard
+cam,car,red,nengin,vehicl,transmiss,ignit,idl,clutch
+eventu,drivetrain,eng,vehicl,messag,tachomet,cel,transmiss,misfir
+then,vehicl,it,misfir,stabil,eventu,wire,vehicl,vsc

@@ -1,0 +1,11 @@
+Audi,BMW,Chrysler,Ford,GMC,Honda,Mercedes-Benz,Nissan,Toyota
+detect,warmer,ac,ac,ac,fan,warmer,ac,ac
+windshield,leather,heat,heat,heat,core,heat,fan,heat
+ac,pcv,fan,blower,core,heat,leather,defrost,defrost
+heat,heat,core,fan,blower,ac,cushion,blower,fan
+interior,ventil,vent,defrost,player,defrost,mangl,compressor,radio
+camera,memori,evapor,vent,cd,evapor,belt,vent,warmer
+backup,belt,compressor,resistor,fan,blower,burn,climat,vent
+trunk,crankcas,defrost,evapor,dvd,vent,hot,heat,duct
+mmi,valv,blower,hvac,defrost,warmer,rest,radio,knob
+blower,char,radiat,compressor,speaker,stereo,hole,cold,leather

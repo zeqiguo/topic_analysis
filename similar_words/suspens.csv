@@ -1,0 +1,11 @@
+Audi,BMW,Chrysler,Ford,GMC,Honda,Mercedes-Benz,Nissan,Toyota
+lower,strut,axl,strut,axl,axl,shock,strut,axl
+interior,axl,strut,subfram,differenti,differenti,strut,subfram,axel
+joint,differenti,bar,differenti,drum,complianc,absorb,differenti,differenti
+windshield,bush,axel,axel,disc,strut,airmat,axl,strut
+rim,subfram,shock,shock,calip,camber,squeaki,bush,bar
+loos,camber,sway,swaybar,wheel,axel,abc,axel,driveshaft
+boot,shock,knuckl,stabil,suspenison,sub,pneumat,sway,drivelin
+window,tower,differenti,axl,hub,driveshaft,compressor,diff,toe
+heater,fender,bush,spindl,warp,shaft,valv,shock,sway
+corrod,driveshaft,prematur,diff,rod,knuckl,spring,joint,shock

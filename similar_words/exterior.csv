@@ -1,0 +1,11 @@
+Audi,BMW,Chrysler,Ford,GMC,Honda,Mercedes-Benz,Nissan,Toyota
+tail,tail,interior,interior,tail,interior,interior,interior,interior
+mil,fog,dome,dome,dome,tail,licens,dome,chrome
+hid,reflect,tail,overhead,interior,dome,tail,fog,len
+interior,instrument,overhead,dim,flicker,overhead,blink,len,trim
+epc,dashboard,dim,fog,secur,vaniti,fog,tail,lens
+dome,blink,len,taillight,se,fog,dome,yellow,overhead
+backup,halo,reflect,tail,hid,reflect,dashboard,amber,dome
+lamp,led,mirror,bright,fog,fixtur,headlight,reflect,tail
+xenon,halogen,triangl,halogen,sterio,nsr,sr,flicker,fender
+output,red,flicker,flicker,fixtur,flicker,dash,shine,grey

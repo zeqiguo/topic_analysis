@@ -1,0 +1,11 @@
+Audi,BMW,Chrysler,Ford,GMC,Honda,Mercedes-Benz,Nissan,Toyota
+pretension,airbag,headrest,buckl,seat,buckl,head,restrain,seat
+retract,constantli,restrain,retractor,buckl,seat,mirror,seat,buckl
+protocol,belt,buckl,seat,fasten,restrain,latch,retractor,retractor
+defrost,disabl,retract,lap,seatback,retract,blind,restraint,belt
+pillar,stay,seat,seatback,door,child,passeng,retract,latch
+curtain,restraint,restraint,belt,latch,belt,buckl,buckl,restrain
+ajar,fasten,reclin,retract,lap,strap,hatch,belt,lap
+restraint,sr,trunk,door,restraint,fasten,trap,lap,retract
+extern,dash,secur,restrain,reclin,retractor,child,fasten,child
+cushion,waarn,lid,unbuckl,window,latch,rest,airbag,door

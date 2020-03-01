@@ -1,0 +1,11 @@
+Audi,BMW,Chrysler,Ford,GMC,Honda,Mercedes-Benz,Nissan,Toyota
+acceler,acceler,break,break,ab,break,acceler,break,break
+appli,pedal,rotor,clutch,acceler,clutch,ab,clutch,clutch
+break,clutch,acceler,soft,drum,acceler,appli,ab,acceler
+press,break,calip,handbrak,pedal,calip,break,puls,ab
+depress,flasher,pad,calip,calip,ab,depress,acceler,firmli
+cruis,depress,pedal,nbrake,pad,shoe,pedal,button,pressur
+pedal,tail,shoe,ab,rotor,pedal,emerg,aeb,puls
+throttl,jerk,wheel,pulsat,depress,accelerat,floorboard,calip,skid
+engag,decent,grind,acceler,break,flasher,asr,pressur,momentarili
+emerg,throttl,flasher,shoe,disc,floorboard,esp,skid,stop

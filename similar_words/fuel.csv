@@ -1,0 +1,11 @@
+Audi,BMW,Chrysler,Ford,GMC,Honda,Mercedes-Benz,Nissan,Toyota
+water,dmtl,water,nfuel,gasolin,gasolin,ga,nfuel,gasolin
+coolant,water,gasolin,vacuum,ga,ga,coolant,gasolin,coolant
+suction,vacuum,ga,gasolin,vacuum,coolant,gasolin,fule,ga
+shave,coolant,fule,fule,water,water,water,ga,water
+haldex,oil,evap,mec,vaccum,filler,sbc,storag,evapor
+ga,passiv,coolant,evap,oil,exhaust,exhaust,auxiliari,freon
+vacuum,smg,nvld,coolant,coolant,petrol,oil,auxillari,vacuum
+thermostat,ga,canist,ga,def,hose,reservoir,water,radiat
+gasolin,expans,exhaust,particul,tank,freon,tank,freon,nwater
+oil,turbo,vacuum,petrol,fluid,vacuum,abc,coolant,charcoal

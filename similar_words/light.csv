@@ -1,0 +1,11 @@
+Audi,BMW,Chrysler,Ford,GMC,Honda,Mercedes-Benz,Nissan,Toyota
+flash,lamp,icon,lite,lamp,icon,messag,lamp,icon
+warn,icon,lamp,icon,messag,lamp,lamp,icon,lite
+dash,messag,screen,lamp,headlight,lite,dash,lite,triangl
+epc,signal,randomli,symbol,screen,symbol,cel,symbol,lamp
+blink,dash,headlight,messag,display,dashboard,dashboard,indic,symbol
+messag,dashboard,symbol,triangl,flash,display,remain,dash,display
+prnd,lite,messag,headlight,stay,indic,display,constantli,signal
+constantli,indic,chime,randomli,radio,dash,ba,flash,vsc
+esp,display,ding,display,chime,beep,sign,headlight,trac
+tpm,screen,dash,lit,constantli,messag,flash,dashboard,beep
